@@ -9,6 +9,5 @@
 
 效果如图：
 
-![](./vuePress-blog/blob/master/vuepress-pro/docs/.vuepress/public/img/logo.jpg)
-![](../.vuepress/public/img/demo2.jpg)
+![](vuePress-blog/blob/master/vuepress-pro/docs/.vuepress/public/img/logo.jpg)
 
